@@ -4,13 +4,13 @@ Estado revisado: 25 de octubre de 2026. **Este repositorio por sí solo no certi
 
 | ID | Criterio | Estado | Evidencia / acción |
 |---|---|---|---|
-| AC-01 | Una política de privacidad pública, legible, HTTPS y sin inicio de sesión | Pendiente de verificar | Habilitar GitHub Pages y abrir la URL en incógnito |
+| AC-01 | Una política de privacidad pública, legible, HTTPS y sin inicio de sesión | Pendiente de verificar | Abrir URL de GitHub Pages en incógnito y comprobar HTTPS |
 | AC-02 | Política claramente identificada como de Scriptoria | Cumple en documentos | `privacidad.html` |
 | AC-03 | Describir datos, finalidades, proveedores, seguridad y conservación | Documentado, sujeto a verificación | Revisar SDK y backend contra cada afirmación |
-| AC-04 | Identificar responsable real y contacto privado de privacidad | **Bloqueado** | Confirmar razón social/nombre público y correo atendido |
+| AC-04 | Identificar responsable real y contacto privado de privacidad | Parcial: correo configurado, responsable pendiente | Confirmar responsable legal y probar correo vorancorporation@gmail.com |
 | AC-05 | Enlace a política en Play Console y dentro de la app | Pendiente en Android/Play | Verificar navegación sin inicio de sesión |
 | AC-06 | Solicitud de eliminación dentro de la app | Pendiente de prueba | Comprobar eliminación real y asociados |
-| AC-07 | Solicitud de eliminación fuera de la app | **Bloqueado** | Habilitar mecanismo privado operativo; `eliminacion.html` solo informa hoy |
+| AC-07 | Solicitud de eliminación fuera de la app | Parcial: correo habilitado, flujo pendiente de prueba | Verificar recepción y ejecución real de solicitudes por vorancorporation@gmail.com |
 | AC-08 | Informar datos eliminados y retenciones justificadas | Documentado, sujeto a verificación | Validar backups, plazos, proveedores |
 | AC-09 | Consentimiento y revocación GDPR (UMP) | Pendiente en Android | Probar elección y cambio de preferencias |
 | AC-10 | Inventario AdMob y tratamiento publicitario coherente | Documentado | Confirmar cinco formatos y bloqueo según consentimiento |
