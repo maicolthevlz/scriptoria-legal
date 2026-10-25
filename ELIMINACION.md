@@ -10,7 +10,7 @@ Abre **Ajustes → Cuenta → Eliminar cuenta** **si esta opción está disponib
 
 ## Sin la aplicación
 
-Para solicitar eliminación sin la aplicación, debe habilitarse un canal privado de contacto. Este canal aún no está operativo; no publiques datos personales en incidencias públicas de GitHub. No incluyas contraseñas ni datos de pago. Podremos solicitar una verificación proporcionada para impedir que otra persona elimine tu cuenta.
+Para solicitar la eliminación sin la aplicación, escribe a vorancorporation@gmail.com con el asunto «Eliminar cuenta de Scriptoria». Indica el correo asociado a la cuenta. El equipo podrá pedir una verificación proporcionada de titularidad. No incluyas contraseñas ni datos de pago. Podremos solicitar una verificación proporcionada para impedir que otra persona elimine tu cuenta.
 
 ## Qué se elimina
 
