@@ -7,7 +7,7 @@ Scriptoria es una aplicación móvil Android de escritura y organización narrat
 ## 1. Prestador y aceptación
 
 **Prestador:** Responsable legal por identificar  
-**Contacto:** Contacto privado pendiente de habilitar  
+**Contacto:** vorancorporation@gmail.com  
 **País:** Colombia.
 
 Al crear una cuenta o utilizar funciones sujetas a registro, aceptas estos términos en la medida que la legislación aplicable lo permita. La aplicación deberá presentar las condiciones antes de requerir su aceptación.
