@@ -2,16 +2,16 @@
 
 **Versión 1.1 · 25 de octubre de 2026**
 
-Scriptoria es una aplicación móvil Android para planear, escribir y organizar obras literarias. Esta política explica cómo se tratan los datos al usar una cuenta y los servicios de la aplicación. **Antes de publicar, completa la identidad del responsable y un correo de contacto válido** al final del documento y verifica las funciones reales de la versión Android distribuida.
+Scriptoria es una aplicación móvil Android para planear, escribir y organizar obras literarias. Esta política explica cómo se tratan los datos al usar una cuenta y los servicios de la aplicación. Las prácticas descritas deben corresponder a la versión de la aplicación utilizada.
 
 ## 1. Responsable y contacto
 
-**Responsable:** [NOMBRE LEGAL O RAZÓN SOCIAL DEL RESPONSABLE]  
-**País de establecimiento:** [PAÍS]  
-**Contacto de privacidad:** [CORREO PÚBLICO DE PRIVACIDAD]  
+**Responsable:** Responsable legal por identificar  
+**País de establecimiento:** Colombia  
+**Contacto de privacidad:** Contacto privado pendiente de habilitar  
 **Aplicación:** Scriptoria (Android).
 
-Puedes solicitar información sobre tus datos, ejercer tus derechos o comunicar un problema de privacidad mediante el contacto indicado, una vez publicado.
+El canal privado para solicitudes de datos personales todavía debe habilitarse. No envíes datos personales mediante incidencias públicas.
 
 ## 2. Datos que podemos tratar
 
@@ -39,7 +39,7 @@ El plan Supporter se presenta como una experiencia sin anuncios de terceros **si
 
 ## 5. Inteligencia artificial y contenido narrativo
 
-La obra sigue siendo del usuario. Scriptoria no adquiere derechos de propiedad sobre ella por almacenarla o procesarla para prestar el servicio. Algunas herramientas de análisis narrativo pueden funcionar localmente y otras podrían requerir servicios remotos. **Antes de activar un análisis remoto, la aplicación debe informar qué información se enviará, a quién y con qué finalidad**. No debe afirmarse que todo el análisis es local ni que ningún proveedor ve nunca texto si esa condición no se ha verificado para todas las funciones. No autorizamos el uso de la obra para entrenar modelos propios o de terceros como finalidad independiente sin una comunicación y base legal adecuadas.
+La obra sigue siendo del usuario. Scriptoria no adquiere derechos de propiedad sobre ella por almacenarla o procesarla para prestar el servicio. Algunas herramientas de análisis narrativo pueden funcionar localmente y otras podrían requerir servicios remotos. Antes de activar un análisis remoto, la aplicación debe informar qué información se enviará, a quién y con qué finalidad. No debe afirmarse que todo el análisis es local ni que ningún proveedor ve nunca texto si esa condición no se ha verificado para todas las funciones. No autorizamos el uso de la obra para entrenar modelos propios o de terceros como finalidad independiente sin una comunicación y base legal adecuadas.
 
 ## 6. Proveedores
 
@@ -55,7 +55,7 @@ Según las funciones realmente habilitadas, Scriptoria puede utilizar:
 | OneSignal | Notificaciones, si están habilitadas | Token y señales técnicas del dispositivo |
 | Google AdMob y sus socios | Anuncios y consentimiento | Datos publicitarios y preferencias |
 
-La mera presencia de una dependencia en el código no prueba que el servicio esté activo; este inventario debe revisarse antes de publicar. Los proveedores pueden tratar datos en otros países y aplicar sus propias medidas o mecanismos legales de transferencia.
+La disponibilidad de cada servicio depende de la versión y de las funciones utilizadas. Los proveedores pueden tratar datos en otros países y aplicar sus propias medidas o mecanismos legales de transferencia.
 
 No vendemos los manuscritos ni concedemos licencias comerciales sobre las obras de los usuarios a anunciantes.
 
@@ -83,4 +83,4 @@ Scriptoria no está diseñada para menores que no puedan consentir válidamente 
 
 Podemos actualizar esta política por cambios funcionales, legales o de proveedores. Mostraremos la fecha de actualización y comunicaremos las modificaciones importantes cuando corresponda.
 
-**Última revisión documental:** 25 de octubre de 2026. **Publicación pendiente de verificación técnica y de los datos del responsable.**
+**Última revisión documental:** 25 de octubre de 2026. 
