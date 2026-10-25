@@ -8,10 +8,10 @@ Scriptoria es una aplicación móvil Android para planear, escribir y organizar 
 
 **Responsable:** Responsable legal por identificar  
 **País de establecimiento:** Colombia  
-**Contacto de privacidad:** Contacto privado pendiente de habilitar  
+**Contacto de privacidad:** vorancorporation@gmail.com  
 **Aplicación:** Scriptoria (Android).
 
-El canal privado para solicitudes de datos personales todavía debe habilitarse. No envíes datos personales mediante incidencias públicas.
+Para ejercer tus derechos, escribe a vorancorporation@gmail.com. No envíes contraseñas ni datos de pago.
 
 ## 2. Datos que podemos tratar
 
