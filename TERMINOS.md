@@ -2,13 +2,13 @@
 
 **Versión 1.1 · 25 de octubre de 2026**
 
-Scriptoria es una aplicación móvil Android de escritura y organización narrativa. Estas condiciones describen las reglas básicas del servicio. **Antes de su publicación, completa el nombre legal y los datos de contacto del proveedor del servicio.**
+Scriptoria es una aplicación móvil Android de escritura y organización narrativa. Estas condiciones describen las reglas básicas del servicio. 
 
 ## 1. Prestador y aceptación
 
-**Prestador:** [NOMBRE LEGAL O RAZÓN SOCIAL]  
-**Contacto:** [CORREO DE CONTACTO]  
-**País:** [PAÍS].
+**Prestador:** Responsable legal por identificar  
+**Contacto:** Contacto privado pendiente de habilitar  
+**País:** Colombia.
 
 Al crear una cuenta o utilizar funciones sujetas a registro, aceptas estos términos en la medida que la legislación aplicable lo permita. La aplicación deberá presentar las condiciones antes de requerir su aceptación.
 
@@ -58,4 +58,4 @@ El tratamiento de datos se describe en nuestra [Política de privacidad](privaci
 
 Publicaremos cambios de estas condiciones con la fecha de actualización y solicitaremos una nueva aceptación cuando sea legalmente necesaria. La legislación y las autoridades competentes se determinarán conforme a las reglas obligatorias de protección de usuarios y consumidores.
 
-**Última revisión documental:** 25 de octubre de 2026. **Publicación pendiente de completar la identificación del prestador y comprobar las funciones.**
+**Última revisión documental:** 25 de octubre de 2026. 
