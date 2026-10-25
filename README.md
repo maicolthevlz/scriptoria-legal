@@ -1,13 +1,22 @@
-# Scriptoria · Información legal
+# Scriptoria · Sitio legal
 
-Sitio legal de **Scriptoria**, aplicación móvil Android para escribir y organizar historias.
+Documentos públicos para **Scriptoria**, aplicación móvil Android de escritura.
 
-## Documentos
-- [Política de privacidad](privacidad.html)
-- [Términos y condiciones](terminos.html)
-- [Eliminación de cuenta y datos](eliminacion.html)
+| Documento | Lectura pública (GitHub Pages) | Fuente editorial |
+|---|---|---|
+| Política de privacidad | [privacidad.html](privacidad.html) | [PRIVACIDAD.md](PRIVACIDAD.md) |
+| Términos y condiciones | [terminos.html](terminos.html) | [TERMINOS.md](TERMINOS.md) |
+| Eliminación de cuenta y datos | [eliminacion.html](eliminacion.html) | [ELIMINACION.md](ELIMINACION.md) |
 
-## GitHub Pages
-El sitio puede publicarse desde la rama `main` y la carpeta raíz en **Settings → Pages**.
+**Decisión técnica:** se mantiene Markdown para editar y revisar el texto, y HTML como formato público para AdMob/Google Play. GitHub Pages no renderiza los archivos .md por sí solo con el diseño de estas páginas.
 
-**Contacto y transparencia:** antes de utilizar estos documentos como versión legal definitiva, se debe confirmar la identidad del responsable y un canal privado operativo para solicitudes de datos y eliminación. No publiques datos personales en incidencias de GitHub.
+## Sitio
+
+Al activar GitHub Pages desde `main / (root)`, la dirección prevista es:
+`https://maicolthevlz.github.io/scriptoria-legal/`.
+
+[Checklist de criterios de aceptación y pendientes](ACEPTACION.md)
+
+**Antes del lanzamiento:** falta confirmar la identidad legal del responsable, habilitar un contacto **privado y funcional** para privacidad/eliminación y contrastar las declaraciones contra la app Android. No publiques información personal en GitHub Issues.
+
+El repositorio no contiene el código de la aplicación ni datos de usuarios.
