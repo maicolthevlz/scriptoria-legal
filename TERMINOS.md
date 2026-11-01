@@ -6,7 +6,7 @@ Scriptoria es una aplicación móvil Android de escritura y organización narrat
 
 ## 1. Prestador y aceptación
 
-**Prestador:** Responsable legal por identificar  
+**Prestador:** Michael Velasquez  
 **Contacto:** vorancorporation@gmail.com  
 **País:** Colombia.
 
@@ -20,7 +20,7 @@ Si habilitas herramientas con procesamiento remoto, deberán describir los datos
 
 ## 3. Cuenta y seguridad
 
-Debes facilitar información correcta, proteger tus credenciales y no intentar acceder a cuentas ajenas. Comunica posibles accesos no autorizados. Pueden existir requisitos de edad mínima según tu lugar de residencia. Puedes solicitar la eliminación desde la app y desde la página [Eliminación de cuenta](eliminacion.html).
+Debes facilitar información correcta, proteger tus credenciales y no intentar acceder a cuentas ajenas. Comunica posibles accesos no autorizados. Scriptoria está dirigida a personas de 16 años o más. Si tienes 16 o 17 años, pueden ser necesarios el permiso y la intervención de tu representante legal según la legislación aplicable. Las herramientas de IA y la publicidad están sujetas además a requisitos específicos de sus proveedores. Puedes solicitar la eliminación desde la app y desde la página [Eliminación de cuenta](eliminacion.html).
 
 ## 4. Plan gratuito, anuncios y recompensas
 
