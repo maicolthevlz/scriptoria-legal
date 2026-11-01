@@ -17,7 +17,7 @@ Al activar GitHub Pages desde `main / (root)`, la dirección prevista es:
 
 [Checklist de criterios de aceptación y pendientes](ACEPTACION.md)
 
-**Antes del lanzamiento:** falta confirmar la identidad legal del responsable, comprobar la atención del correo vorancorporation@gmail.com y contrastar las declaraciones contra la app Android. No publiques información personal en GitHub Issues.
+**Antes del lanzamiento:** responsable confirmado: Michael Velasquez (Colombia), contacto vorancorporation@gmail.com; audiencia de V1: 16 años o más. Quedan la revisión legal, la verificación del buzón, las condiciones para menores y el contraste final con la app Android. No publiques información personal en GitHub Issues.
 
 El repositorio no contiene el código de la aplicación ni datos de usuarios.
 
