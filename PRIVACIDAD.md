@@ -6,7 +6,7 @@ Scriptoria es una aplicación móvil Android para planear, escribir y organizar 
 
 ## 1. Responsable y contacto
 
-**Responsable:** Responsable legal por identificar  
+**Responsable:** Michael Velasquez  
 **País de establecimiento:** Colombia  
 **Contacto de privacidad:** vorancorporation@gmail.com  
 **Aplicación:** Scriptoria (Android).
@@ -77,7 +77,7 @@ Dependiendo de tu jurisdicción, puedes pedir acceso, corrección, exportación,
 
 ## 10. Menores
 
-Scriptoria no está diseñada para menores que no puedan consentir válidamente el tratamiento de sus datos conforme a su legislación aplicable. Se revisarán las solicitudes relacionadas con cuentas de menores de acuerdo con la ley.
+Scriptoria está dirigida a personas de 16 años o más. Si tienes 16 o 17 años, pueden ser necesarios el permiso y la intervención de tu representante legal según la legislación aplicable. Las herramientas de IA y la publicidad están sujetas además a requisitos específicos de sus proveedores.
 
 ## 11. Cambios
 
